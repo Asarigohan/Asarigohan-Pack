@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="ba-bf-throw.png"><SubTexture name="throw0000" x="0" y="0" width="180" height="116" frameX="0" frameY="0" frameWidth="180" frameHeight="116" />
+<SubTexture name="throw0001" x="180" y="0" width="180" height="116" frameX="0" frameY="0" frameWidth="180" frameHeight="116" />
+<SubTexture name="throw0002" x="360" y="0" width="180" height="116" frameX="0" frameY="0" frameWidth="180" frameHeight="116" />
+<SubTexture name="throw0003" x="0" y="116" width="180" height="116" frameX="0" frameY="0" frameWidth="180" frameHeight="116" />
+<SubTexture name="throw0004" x="180" y="116" width="180" height="116" frameX="0" frameY="0" frameWidth="180" frameHeight="116" />
+<SubTexture name="throw0005" x="360" y="116" width="180" height="116" frameX="0" frameY="0" frameWidth="180" frameHeight="116" />
+<SubTexture name="throw0006" x="0" y="232" width="180" height="116" frameX="0" frameY="0" frameWidth="180" frameHeight="116" />
+<SubTexture name="throw0007" x="180" y="232" width="180" height="116" frameX="0" frameY="0" frameWidth="180" frameHeight="116" />
+<SubTexture name="throw0008" x="360" y="232" width="180" height="116" frameX="0" frameY="0" frameWidth="180" frameHeight="116" />
+<SubTexture name="throw0009" x="0" y="348" width="180" height="116" frameX="0" frameY="0" frameWidth="180" frameHeight="116" />
+</TextureAtlas>

@@ -1,0 +1,6 @@
+mods/data/who-said-pants-old/pants.lua
+mods/scripts/JudgementCounter.lua
+mods/songs/who-said-pants-old/Voices.ogg
+mods/songs/who-said-pants-old/voices.ogg
+mods/songs/who-said-pants-old/Inst.ogg
+mods/songs/who-said-pants-old/inst.ogg

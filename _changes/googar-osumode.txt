@@ -1,0 +1,11 @@
+mods/data/googar/events.json
+mods/data/googar/googar-hard.json
+mods/stages/googar.json
+mods/stages/googar.lua
+mods/custom_events/lyrics.lua
+mods/scripts/JudgementCounter.lua
+mods/fonts/poketext.ttf
+mods/songs/googar/Voices.ogg
+mods/songs/googar/voices.ogg
+mods/songs/googar/Inst.ogg
+mods/songs/googar/inst.ogg

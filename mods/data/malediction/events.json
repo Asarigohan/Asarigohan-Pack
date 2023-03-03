@@ -1,0 +1,151 @@
+{
+	"song": {
+		"events": [
+			[
+				66000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"curse_nervous"
+					],
+					[
+						"defaultCamZoom",
+						"1.0",
+						""
+					]
+				]
+			],
+			[
+				67000,
+				[
+					[
+						"Lyrics",
+						"Something is wrong...",
+						"1"
+					]
+				]
+			],
+			[
+				68625,
+				[
+					[
+						"Lyrics",
+						"You all hide it for me",
+						"1"
+					]
+				]
+			],
+			[
+				70000,
+				[
+					[
+						"defaultCamZoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				88750,
+				[
+					[
+						"Change Character",
+						"dad",
+						"curse_pissbaby"
+					]
+				]
+			],
+			[
+				89000,
+				[
+					[
+						"Lyrics",
+						"JUST ADMIT IT!!",
+						"1"
+					]
+				]
+			],
+			[
+				122000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"curse_nervous"
+					]
+				]
+			],
+			[
+				146000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"curse_happy"
+					]
+				]
+			],
+			[
+				148750,
+				[
+					[
+						"Lyrics",
+						"Things are...",
+						"3"
+					]
+				]
+			],
+			[
+				150250,
+				[
+					[
+						"Lyrics",
+						"Things are... okay?",
+						"1"
+					]
+				]
+			],
+			[
+				151875,
+				[
+					[
+						"Lyrics",
+						"Then",
+						"1"
+					]
+				]
+			],
+			[
+				152875,
+				[
+					[
+						"Lyrics",
+						"Can we...",
+						"3"
+					]
+				]
+			],
+			[
+				154000,
+				[
+					[
+						"Lyrics",
+						"Try again?",
+						"1"
+					]
+				]
+			],
+			[
+				155375,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"bf"
+					]
+				]
+			]
+		]
+	}
+}

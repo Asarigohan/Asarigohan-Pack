@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="imsaster.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="imsaster0000" x="2" y="2" width="261" height="424" frameX="0" frameY="-31" frameWidth="261" frameHeight="455"/>
+	<SubTexture name="imsaster0001" x="2" y="2" width="261" height="424" frameX="0" frameY="-31" frameWidth="261" frameHeight="455"/>
+	<SubTexture name="imsaster0002" x="265" y="2" width="261" height="448" frameX="0" frameY="-7" frameWidth="261" frameHeight="455"/>
+	<SubTexture name="imsaster0003" x="265" y="2" width="261" height="448" frameX="0" frameY="-7" frameWidth="261" frameHeight="455"/>
+	<SubTexture name="imsaster0004" x="528" y="2" width="261" height="455"/>
+	<SubTexture name="imsaster0005" x="528" y="2" width="261" height="455"/>
+	<SubTexture name="imsaster0006" x="528" y="2" width="261" height="455"/>
+	<SubTexture name="imsaster0007" x="528" y="2" width="261" height="455"/>
+	<SubTexture name="imsaster0008" x="528" y="2" width="261" height="455"/>
+	<SubTexture name="imsaster0009" x="528" y="2" width="261" height="455"/>
+	<SubTexture name="imsaster0010" x="528" y="2" width="261" height="455"/>
+	<SubTexture name="imsaster0011" x="528" y="2" width="261" height="455"/>
+	<SubTexture name="imsaster0012" x="528" y="2" width="261" height="455"/>
+	<SubTexture name="imsaster0013" x="528" y="2" width="261" height="455"/>
+</TextureAtlas>

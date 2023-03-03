@@ -1,0 +1,13 @@
+mods/data/malediction/cameramove.lua
+mods/data/malediction/events.json
+mods/data/malediction/malediction.json
+mods/stages/curse.json
+mods/stages/curse.lua
+mods/custom_events/Lyrics.lua
+mods/custom_events/defaultCamZoom.lua
+mods/scripts/JudgementCounter.lua
+mods/fonts/poketext.ttf
+mods/songs/malediction/Voices.ogg
+mods/songs/malediction/voices.ogg
+mods/songs/malediction/Inst.ogg
+mods/songs/malediction/inst.ogg

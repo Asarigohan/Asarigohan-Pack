@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="imsasutaa.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sasutaamove0000" x="2" y="2" width="261" height="424" frameX="0" frameY="-31" frameWidth="261" frameHeight="455"/>
+	<SubTexture name="sasutaamove0001" x="2" y="2" width="261" height="424" frameX="0" frameY="-31" frameWidth="261" frameHeight="455"/>
+	<SubTexture name="sasutaamove0002" x="265" y="2" width="261" height="448" frameX="0" frameY="-7" frameWidth="261" frameHeight="455"/>
+	<SubTexture name="sasutaamove0003" x="265" y="2" width="261" height="448" frameX="0" frameY="-7" frameWidth="261" frameHeight="455"/>
+	<SubTexture name="sasutaamove0004" x="528" y="2" width="261" height="455"/>
+	<SubTexture name="sasutaamove0005" x="528" y="2" width="261" height="455"/>
+	<SubTexture name="sasutaamove0006" x="528" y="2" width="261" height="455"/>
+	<SubTexture name="sasutaamove0007" x="528" y="2" width="261" height="455"/>
+	<SubTexture name="sasutaamove0008" x="528" y="2" width="261" height="455"/>
+	<SubTexture name="sasutaamove0009" x="528" y="2" width="261" height="455"/>
+	<SubTexture name="sasutaamove0010" x="528" y="2" width="261" height="455"/>
+	<SubTexture name="sasutaamove0011" x="528" y="2" width="261" height="455"/>
+	<SubTexture name="sasutaamove0012" x="528" y="2" width="261" height="455"/>
+	<SubTexture name="sasutaamove0013" x="528" y="2" width="261" height="455"/>
+	<SubTexture name="sasutaamove0014" x="528" y="2" width="261" height="455"/>
+	<SubTexture name="sasutaamove0015" x="528" y="2" width="261" height="455"/>
+	<SubTexture name="sasutaamove0016" x="528" y="2" width="261" height="455"/>
+	<SubTexture name="sasutaamove0017" x="528" y="2" width="261" height="455"/>
+</TextureAtlas>

@@ -1,0 +1,249 @@
+{
+	"song": {
+		"speed": 2.6,
+		"stage": "buried",
+		"player1": "ba-bf",
+		"player2": "buried",
+		"player3": null,
+		"events": [
+			[
+				7309.64467005076,
+				[
+					[
+						"Intro",
+						"",
+						""
+					]
+				]
+			],
+			[
+				8527.91878172589,
+				[
+					[
+						"Intro",
+						"",
+						""
+					]
+				]
+			],
+			[
+				9746.19289340102,
+				[
+					[
+						"Intro",
+						"",
+						""
+					]
+				]
+			],
+			[
+				10964.4670050761,
+				[
+					[
+						"Play Animation",
+						"intro",
+						"dad"
+					],
+					[
+						"Intro",
+						"",
+						""
+					]
+				]
+			],
+			[
+				12182.7411167513,
+				[
+					[
+						"Alt Idle Animation",
+						"dad",
+						"-alt"
+					]
+				]
+			],
+			[
+				69137.0558375635,
+				[
+					[
+						"Play Animation",
+						"enter",
+						"gf"
+					]
+				]
+			],
+			[
+				71192.8934010153,
+				[
+					[
+						"Change Character",
+						"gf",
+						"gengar"
+					]
+				]
+			],
+			[
+				118705.583756345,
+				[
+					[
+						"Change Character",
+						"bf",
+						"ba-bf-throw"
+					],
+					[
+						"Play Animation",
+						"throw",
+						"bf"
+					]
+				]
+			],
+			[
+				119467.005076142,
+				[
+					[
+						"Change Character",
+						"bf",
+						"ba-bf"
+					],
+					[
+						"Missingno",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				122055.837563452,
+				[
+					[
+						"Missingno",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				122436.54822335,
+				[
+					[
+						"Missingno",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				125101.52284264,
+				[
+					[
+						"Missingno",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				125482.233502538,
+				[
+					[
+						"Missingno",
+						"9",
+						""
+					]
+				]
+			],
+			[
+				127309.644670051,
+				[
+					[
+						"Missingno",
+						"5",
+						""
+					]
+				]
+			],
+			[
+				128832.487309645,
+				[
+					[
+						"Missingno",
+						"6",
+						""
+					]
+				]
+			],
+			[
+				129137.055837564,
+				[
+					[
+						"Missingno",
+						"7",
+						""
+					]
+				]
+			],
+			[
+				177868.020304569,
+				[
+					[
+						"Change Character",
+						"gf",
+						"leanmonster-enter"
+					],
+					[
+						"Missingno",
+						"8",
+						""
+					]
+				]
+			],
+			[
+				180304.568527919,
+				[
+					[
+						"gameboy",
+						"start",
+						""
+					]
+				]
+			],
+			[
+				202233.502538071,
+				[
+					[
+						"gameboy",
+						"end",
+						""
+					]
+				]
+			],
+			[
+				203451.776649746,
+				[
+					[
+						"Play Animation",
+						"enter",
+						"gf"
+					]
+				]
+			],
+			[
+				204631.979695432,
+				[
+					[
+						"Change Character",
+						"gf",
+						"leanmonster"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gengar-enter",
+		"bpm": 197,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Brimstone-old"
+	}
+}

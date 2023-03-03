@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "gffisk left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "gffisk down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "gffisk up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "gffisk right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "gffisk idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/gffisk_assets",
+	"position": [
+		120,
+		420
+	],
+	"healthicon": "gffisk",
+	"flip_x": true,
+	"healthbar_colors": [
+		102,
+		57,
+		49
+	],
+	"camera_position": [
+		150,
+		20
+	],
+	"sing_duration": 5.00000000000001,
+	"scale": 3
+}

@@ -1,0 +1,10 @@
+mods/data/who-said-pants/Flip Health.lua
+mods/data/who-said-pants/pants.lua
+mods/data/who-said-pants/who-said-pants.json
+mods/stages/wsp_stage.json
+mods/stages/wsp_stage.lua
+mods/scripts/JudgementCounter.lua
+mods/songs/who-said-pants/Voices.ogg
+mods/songs/who-said-pants/voices.ogg
+mods/songs/who-said-pants/Inst.ogg
+mods/songs/who-said-pants/inst.ogg

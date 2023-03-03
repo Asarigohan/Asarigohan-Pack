@@ -1,0 +1,10 @@
+mods/data/shintomnia/cameramove.lua
+mods/data/shintomnia/setup.lua
+mods/data/shintomnia/shintomnia.json
+mods/stages/imstage.json
+mods/stages/imstage.lua
+mods/scripts/JudgementCounter.lua
+mods/songs/shintomnia/Voices.ogg
+mods/songs/shintomnia/voices.ogg
+mods/songs/shintomnia/Inst.ogg
+mods/songs/shintomnia/inst.ogg

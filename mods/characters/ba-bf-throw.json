@@ -1,0 +1,47 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				71
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "throw",
+			"indices": [],
+			"name": "throw"
+		},
+		{
+			"offsets": [
+				0,
+				71
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [
+				0
+			],
+			"name": "throw"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/ba-bf-throw",
+	"position": [
+		250,
+		500
+	],
+	"healthicon": "bf-pixel",
+	"flip_x": true,
+	"healthbar_colors": [
+		115,
+		200,
+		255
+	],
+	"camera_position": [
+		-360,
+		-285
+	],
+	"sing_duration": 6.1,
+	"scale": 5
+}

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="pm.png">
+<SubTexture name="pm idle0000" x="3329" y="3961" width="1621" height="1914" frameX="-138" frameY="-142" frameWidth="1974" frameHeight="2107" />
+<SubTexture name="pm idle0001" x="5036" y="0" width="1623" height="1959" frameX="-130" frameY="-106" frameWidth="1974" frameHeight="2107" />
+<SubTexture name="pm idle0002" x="0" y="1992" width="1621" height="1969" frameX="-129" frameY="-96" frameWidth="1974" frameHeight="2107" />
+<SubTexture name="pm idle0003" x="3412" y="0" width="1624" height="1978" frameX="-128" frameY="-87" frameWidth="1974" frameHeight="2107" />
+<SubTexture name="pm right0000" x="0" y="3961" width="1690" height="1956" frameX="-156" frameY="-108" frameWidth="1974" frameHeight="2107" />
+<SubTexture name="pm right0001" x="1621" y="1992" width="1666" height="1967" frameX="-145" frameY="-97" frameWidth="1974" frameHeight="2107" />
+<SubTexture name="pm down0000" x="4950" y="3961" width="1677" height="1904" frameX="-97" frameY="-160" frameWidth="1974" frameHeight="2107" />
+<SubTexture name="pm down0001" x="1690" y="3961" width="1639" height="1944" frameX="-116" frameY="-121" frameWidth="1974" frameHeight="2107" />
+<SubTexture name="pm left0000" x="5036" y="1959" width="1472" height="1943" frameX="-36" frameY="-121" frameWidth="1974" frameHeight="2107" />
+<SubTexture name="pm left0001" x="3287" y="1992" width="1471" height="1960" frameX="-51" frameY="-104" frameWidth="1974" frameHeight="2107" />
+<SubTexture name="pm up0000" x="1698" y="0" width="1714" height="1990" frameX="-161" frameY="-96" frameWidth="1974" frameHeight="2107" />
+<SubTexture name="pm up0001" x="0" y="0" width="1698" height="1992" frameX="-154" frameY="-92" frameWidth="1974" frameHeight="2107" />
+</TextureAtlas>

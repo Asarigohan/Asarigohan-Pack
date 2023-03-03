@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="imgrey.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gdown0000" x="2" y="2" width="291" height="412" frameX="0" frameY="-6" frameWidth="291" frameHeight="418"/>
+	<SubTexture name="gdown0001" x="2" y="2" width="291" height="412" frameX="0" frameY="-6" frameWidth="291" frameHeight="418"/>
+	<SubTexture name="gdown0002" x="295" y="2" width="291" height="417" frameX="0" frameY="0" frameWidth="291" frameHeight="418"/>
+	<SubTexture name="gdown0003" x="295" y="2" width="291" height="417" frameX="0" frameY="0" frameWidth="291" frameHeight="418"/>
+	<SubTexture name="gdown0004" x="295" y="2" width="291" height="417" frameX="0" frameY="0" frameWidth="291" frameHeight="418"/>
+	<SubTexture name="gdown0005" x="295" y="2" width="291" height="417" frameX="0" frameY="0" frameWidth="291" frameHeight="418"/>
+	<SubTexture name="gidle0000" x="588" y="2" width="291" height="428" frameX="0" frameY="-12" frameWidth="291" frameHeight="440"/>
+	<SubTexture name="gidle0001" x="588" y="2" width="291" height="428" frameX="0" frameY="-12" frameWidth="291" frameHeight="440"/>
+	<SubTexture name="gidle0002" x="881" y="2" width="291" height="437" frameX="0" frameY="-3" frameWidth="291" frameHeight="440"/>
+	<SubTexture name="gidle0003" x="881" y="2" width="291" height="437" frameX="0" frameY="-3" frameWidth="291" frameHeight="440"/>
+	<SubTexture name="gidle0004" x="1174" y="2" width="291" height="440"/>
+	<SubTexture name="gidle0005" x="1174" y="2" width="291" height="440"/>
+	<SubTexture name="gidle0006" x="1467" y="2" width="291" height="440"/>
+	<SubTexture name="gidle0007" x="1467" y="2" width="291" height="440"/>
+	<SubTexture name="gidle0008" x="2" y="444" width="291" height="440"/>
+	<SubTexture name="gidle0009" x="2" y="444" width="291" height="440"/>
+	<SubTexture name="gidle0010" x="1174" y="2" width="291" height="440"/>
+	<SubTexture name="gidle0011" x="1174" y="2" width="291" height="440"/>
+	<SubTexture name="gidle0012" x="1467" y="2" width="291" height="440"/>
+	<SubTexture name="gidle0013" x="1467" y="2" width="291" height="440"/>
+	<SubTexture name="gleft0000" x="295" y="444" width="290" height="439" frameX="0" frameY="-1" frameWidth="297" frameHeight="440"/>
+	<SubTexture name="gleft0001" x="295" y="444" width="290" height="439" frameX="0" frameY="-1" frameWidth="297" frameHeight="440"/>
+	<SubTexture name="gleft0002" x="587" y="444" width="291" height="440" frameX="-6" frameY="0" frameWidth="297" frameHeight="440"/>
+	<SubTexture name="gleft0003" x="587" y="444" width="291" height="440" frameX="-6" frameY="0" frameWidth="297" frameHeight="440"/>
+	<SubTexture name="gleft0004" x="587" y="444" width="291" height="440" frameX="-6" frameY="0" frameWidth="297" frameHeight="440"/>
+	<SubTexture name="gleft0005" x="587" y="444" width="291" height="440" frameX="-6" frameY="0" frameWidth="297" frameHeight="440"/>
+	<SubTexture name="gleftalt0000" x="880" y="444" width="337" height="431" frameX="-6" frameY="-9" frameWidth="343" frameHeight="440"/>
+	<SubTexture name="gleftalt0001" x="880" y="444" width="337" height="431" frameX="-6" frameY="-9" frameWidth="343" frameHeight="440"/>
+	<SubTexture name="gleftalt0002" x="1219" y="444" width="341" height="438" frameX="-2" frameY="-2" frameWidth="343" frameHeight="440"/>
+	<SubTexture name="gleftalt0003" x="1219" y="444" width="341" height="438" frameX="-2" frameY="-2" frameWidth="343" frameHeight="440"/>
+	<SubTexture name="gleftalt0004" x="1562" y="444" width="343" height="440"/>
+	<SubTexture name="gleftalt0005" x="1562" y="444" width="343" height="440"/>
+	<SubTexture name="gleftalt0006" x="1562" y="444" width="343" height="440"/>
+	<SubTexture name="gleftalt0007" x="1562" y="444" width="343" height="440"/>
+	<SubTexture name="gleftalt0008" x="1562" y="444" width="343" height="440"/>
+	<SubTexture name="gright0000" x="2" y="886" width="292" height="440" frameX="-7" frameY="0" frameWidth="299" frameHeight="440"/>
+	<SubTexture name="gright0001" x="2" y="886" width="292" height="440" frameX="-7" frameY="0" frameWidth="299" frameHeight="440"/>
+	<SubTexture name="gright0002" x="296" y="886" width="292" height="440" frameX="0" frameY="0" frameWidth="299" frameHeight="440"/>
+	<SubTexture name="gright0003" x="296" y="886" width="292" height="440" frameX="0" frameY="0" frameWidth="299" frameHeight="440"/>
+	<SubTexture name="gright0004" x="296" y="886" width="292" height="440" frameX="0" frameY="0" frameWidth="299" frameHeight="440"/>
+	<SubTexture name="gright0005" x="296" y="886" width="292" height="440" frameX="0" frameY="0" frameWidth="299" frameHeight="440"/>
+	<SubTexture name="grightalt0000" x="590" y="886" width="352" height="436" frameX="0" frameY="-4" frameWidth="360" frameHeight="440"/>
+	<SubTexture name="grightalt0001" x="590" y="886" width="352" height="436" frameX="0" frameY="-4" frameWidth="360" frameHeight="440"/>
+	<SubTexture name="grightalt0002" x="944" y="886" width="354" height="439" frameX="-4" frameY="-1" frameWidth="360" frameHeight="440"/>
+	<SubTexture name="grightalt0003" x="944" y="886" width="354" height="439" frameX="-4" frameY="-1" frameWidth="360" frameHeight="440"/>
+	<SubTexture name="grightalt0004" x="1300" y="886" width="355" height="440" frameX="-5" frameY="0" frameWidth="360" frameHeight="440"/>
+	<SubTexture name="grightalt0005" x="1300" y="886" width="355" height="440" frameX="-5" frameY="0" frameWidth="360" frameHeight="440"/>
+	<SubTexture name="grightalt0006" x="1300" y="886" width="355" height="440" frameX="-5" frameY="0" frameWidth="360" frameHeight="440"/>
+	<SubTexture name="grightalt0007" x="1300" y="886" width="355" height="440" frameX="-5" frameY="0" frameWidth="360" frameHeight="440"/>
+	<SubTexture name="grightalt0008" x="1300" y="886" width="355" height="440" frameX="-5" frameY="0" frameWidth="360" frameHeight="440"/>
+	<SubTexture name="gup0000" x="1657" y="886" width="287" height="448" frameX="-2" frameY="0" frameWidth="291" frameHeight="448"/>
+	<SubTexture name="gup0001" x="1657" y="886" width="287" height="448" frameX="-2" frameY="0" frameWidth="291" frameHeight="448"/>
+	<SubTexture name="gup0002" x="2" y="1336" width="291" height="443" frameX="0" frameY="-5" frameWidth="291" frameHeight="448"/>
+	<SubTexture name="gup0003" x="2" y="1336" width="291" height="443" frameX="0" frameY="-5" frameWidth="291" frameHeight="448"/>
+	<SubTexture name="gup0004" x="2" y="1336" width="291" height="443" frameX="0" frameY="-5" frameWidth="291" frameHeight="448"/>
+	<SubTexture name="gup0005" x="2" y="1336" width="291" height="443" frameX="0" frameY="-5" frameWidth="291" frameHeight="448"/>
+</TextureAtlas>

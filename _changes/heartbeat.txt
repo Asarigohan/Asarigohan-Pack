@@ -1,0 +1,43 @@
+mods/data/heartbeat/events.json
+mods/data/heartbeat/heartbeat-hard.json
+mods/characters/bfmira.json
+mods/characters/pink.json
+mods/characters/gfmira.json
+mods/stages/plantroom.json
+mods/stages/plantroom.lua
+mods/images/characters/bfmira.png
+mods/images/characters/bfmira.xml
+mods/images/characters/pink.png
+mods/images/characters/pink.xml
+mods/images/characters/gfmira.png
+mods/images/characters/gfmira.xml
+mods/custom_events/Camera Twist.lua
+mods/custom_events/Extra Cam Zoom.lua
+mods/custom_events/pink toggle.lua
+mods/scripts/JudgementCounter.lua
+mods/images/mira/bg sky.png
+mods/images/mira/cloud fathest.png
+mods/images/mira/cloud front.png
+mods/images/mira/cloud 1.png
+mods/images/mira/cloud 2.png
+mods/images/mira/cloud 3.png
+mods/images/mira/cloud 4.png
+mods/images/mira/bigcloud.png
+mods/images/mira/glasses.png
+mods/images/mira/crew.png
+mods/images/mira/crew.xml
+mods/images/mira/what is this.png
+mods/images/mira/lmao.png
+mods/images/mira/front pot.png
+mods/images/mira/vines.png
+mods/images/mira/vines.xml
+mods/images/mira/vignette.png
+mods/images/mira/vignette2.png
+mods/images/mira/hearts.png
+mods/images/mira/hearts.xml
+mods/images/mira/heartsWhite.png
+mods/images/mira/heartsWhite.xml
+mods/songs/heartbeat/Voices.ogg
+mods/songs/heartbeat/voices.ogg
+mods/songs/heartbeat/Inst.ogg
+mods/songs/heartbeat/inst.ogg

@@ -1,0 +1,12 @@
+mods/data/heartbeat/events.json
+mods/data/heartbeat/heartbeat-hard.json
+mods/stages/plantroom.json
+mods/stages/plantroom.lua
+mods/custom_events/Camera Twist.lua
+mods/custom_events/Extra Cam Zoom.lua
+mods/custom_events/pink toggle.lua
+mods/scripts/JudgementCounter.lua
+mods/songs/heartbeat/Voices.ogg
+mods/songs/heartbeat/voices.ogg
+mods/songs/heartbeat/Inst.ogg
+mods/songs/heartbeat/inst.ogg

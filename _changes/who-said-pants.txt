@@ -1,0 +1,20 @@
+mods/data/who-said-pants/Flip Health.lua
+mods/data/who-said-pants/pants.lua
+mods/data/who-said-pants/who-said-pants.json
+mods/characters/pm.json
+mods/characters/ps.json
+mods/characters/gfblank.json
+mods/stages/wsp_stage.json
+mods/stages/wsp_stage.lua
+mods/images/characters/pm.png
+mods/images/characters/pm.xml
+mods/images/characters/ps.png
+mods/images/characters/ps.xml
+mods/images/characters/gfblank.png
+mods/images/characters/gfblank.xml
+mods/scripts/JudgementCounter.lua
+mods/images/bg.png
+mods/songs/who-said-pants/Voices.ogg
+mods/songs/who-said-pants/voices.ogg
+mods/songs/who-said-pants/Inst.ogg
+mods/songs/who-said-pants/inst.ogg

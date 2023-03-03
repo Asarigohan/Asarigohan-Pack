@@ -1,0 +1,15 @@
+mods/data/voting-time/events.json
+mods/data/voting-time/player4.lua
+mods/data/voting-time/sussy_ui.lua
+mods/data/voting-time/voting-time-hard.json
+mods/stages/voting.json
+mods/stages/voting.lua
+mods/custom_notetypes/P4_Note.lua
+mods/custom_notetypes/P4_Note_Player.lua
+mods/custom_events/flash.lua
+mods/custom_events/Cam lock in Voting Time.lua
+mods/scripts/JudgementCounter.lua
+mods/songs/voting-time/Voices.ogg
+mods/songs/voting-time/voices.ogg
+mods/songs/voting-time/Inst.ogg
+mods/songs/voting-time/inst.ogg

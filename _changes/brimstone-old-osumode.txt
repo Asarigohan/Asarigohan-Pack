@@ -1,0 +1,13 @@
+mods/data/brimstone-old/brimstone-old-hard.json
+mods/data/brimstone-old/cameramove.lua
+mods/data/brimstone-old/events.json
+mods/stages/buried.json
+mods/stages/buried.lua
+mods/custom_notetypes/MNSings.lua
+mods/custom_events/Intro.lua
+mods/scripts/JudgementCounter.lua
+mods/fonts/poke.ttf
+mods/songs/brimstone-old/Voices.ogg
+mods/songs/brimstone-old/voices.ogg
+mods/songs/brimstone-old/Inst.ogg
+mods/songs/brimstone-old/inst.ogg

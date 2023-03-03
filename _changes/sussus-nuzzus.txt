@@ -1,0 +1,17 @@
+mods/data/sussus-nuzzus/script.lua
+mods/data/sussus-nuzzus/sussus-nuzzus-hard.json
+mods/data/sussus-nuzzus/sussus-nuzzus-old.json
+mods/data/sussus-nuzzus/sussy_ui.lua
+mods/characters/nuzzus.json
+mods/characters/gf.json
+mods/stages/nuzzus.json
+mods/stages/nuzzus.lua
+mods/images/characters/nuzzus.png
+mods/images/characters/nuzzus.xml
+mods/scripts/JudgementCounter.lua
+mods/images/nuzzus/nuzzus.png
+mods/images/nuzzus/nuzzus.xml
+mods/songs/sussus-nuzzus/Voices.ogg
+mods/songs/sussus-nuzzus/voices.ogg
+mods/songs/sussus-nuzzus/Inst.ogg
+mods/songs/sussus-nuzzus/inst.ogg

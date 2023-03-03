@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				-50
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "GlitchySpeak",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/red-speak",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "glitchyredmad",
+	"flip_x": false,
+	"healthbar_colors": [
+		185,
+		49,
+		43
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

@@ -1,0 +1,8 @@
+Missingno Enter
+
+Value 1:
+1 = Idle Normal, 2 = Glitch1
+3 = Glitch2,     4 = Idle Break1
+5 = Ball Burst,  6 = Missingno Visible
+7 = Ball Invis   8 = Missingno Tween
+9 = Idle Break2

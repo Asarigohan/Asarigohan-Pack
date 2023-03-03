@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="ps.png">
+<SubTexture name="ps idle0000" x="4814" y="4940" width="2406" height="2419" frameX="-922" frameY="-93" frameWidth="3479" frameHeight="2551" />
+<SubTexture name="ps idle0001" x="2408" y="4940" width="2406" height="2433" frameX="-922" frameY="-79" frameWidth="3479" frameHeight="2551" />
+<SubTexture name="ps idle0002" x="4812" y="2483" width="2406" height="2442" frameX="-922" frameY="-70" frameWidth="3479" frameHeight="2551" />
+<SubTexture name="ps idle0003" x="2406" y="2483" width="2406" height="2449" frameX="-922" frameY="-63" frameWidth="3479" frameHeight="2551" />
+<SubTexture name="ps idle0004" x="7219" y="2446" width="2406" height="2444" frameX="-922" frameY="-68" frameWidth="3479" frameHeight="2551" />
+<SubTexture name="ps up0000" x="2407" y="0" width="2406" height="2476" frameX="-922" frameY="-36" frameWidth="3479" frameHeight="2551" />
+<SubTexture name="ps up0001" x="4813" y="0" width="2406" height="2468" frameX="-922" frameY="-44" frameWidth="3479" frameHeight="2551" />
+<SubTexture name="ps down0000" x="9627" y="0" width="2406" height="2391" frameX="-921" frameY="-121" frameWidth="3479" frameHeight="2551" />
+<SubTexture name="ps down0001" x="7220" y="4940" width="2407" height="2405" frameX="-921" frameY="-107" frameWidth="3479" frameHeight="2551" />
+<SubTexture name="ps right0000" x="0" y="4940" width="2408" height="2440" frameX="-923" frameY="-72" frameWidth="3479" frameHeight="2551" />
+<SubTexture name="ps right0001" x="7219" y="0" width="2408" height="2446" frameX="-922" frameY="-66" frameWidth="3479" frameHeight="2551" />
+<SubTexture name="ps left0000" x="0" y="2483" width="2406" height="2457" frameX="-922" frameY="-55" frameWidth="3479" frameHeight="2551" />
+<SubTexture name="ps left0001" x="0" y="0" width="2407" height="2483" frameX="-922" frameY="-29" frameWidth="3479" frameHeight="2551" />
+</TextureAtlas>
