@@ -1,6 +1,6 @@
 function onCreate()
 
-  makeLuaText('judge', '', screenWidth, 0, 0)
+  makeLuaText('judge', '', screenWidth, -20, 0)
   setTextSize('judge', 20)
   screenCenter('judge', 'Y')
   setTextAlignment('judge', 'right')
