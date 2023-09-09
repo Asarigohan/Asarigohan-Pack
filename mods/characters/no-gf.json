@@ -2,8 +2,8 @@
 	"animations": [
 		{
 			"offsets": [
-				2003,
-				160
+				3,
+				0
 			],
 			"loop": false,
 			"anim": "cheer",
@@ -13,8 +13,8 @@
 		},
 		{
 			"offsets": [
-				2000,
-				111
+				0,
+				-19
 			],
 			"loop": false,
 			"anim": "singLEFT",
@@ -24,8 +24,8 @@
 		},
 		{
 			"offsets": [
-				2010,
-				70
+				0,
+				-20
 			],
 			"loop": false,
 			"anim": "singDOWN",
@@ -35,8 +35,8 @@
 		},
 		{
 			"offsets": [
-				2003,
-				84
+				0,
+				4
 			],
 			"loop": false,
 			"anim": "singUP",
@@ -46,8 +46,8 @@
 		},
 		{
 			"offsets": [
-				2020,
-				90
+				0,
+				-20
 			],
 			"loop": false,
 			"anim": "singRIGHT",
@@ -57,8 +57,8 @@
 		},
 		{
 			"offsets": [
-				2008,
-				129
+				-2,
+				-21
 			],
 			"loop": false,
 			"anim": "sad",
@@ -82,8 +82,8 @@
 		},
 		{
 			"offsets": [
-				2010,
-				141
+				0,
+				-9
 			],
 			"loop": false,
 			"anim": "danceLeft",
@@ -110,8 +110,8 @@
 		},
 		{
 			"offsets": [
-				2020,
-				121
+				0,
+				-9
 			],
 			"loop": false,
 			"anim": "danceRight",
@@ -137,8 +137,8 @@
 		},
 		{
 			"offsets": [
-				2055,
-				142
+				45,
+				-8
 			],
 			"loop": true,
 			"anim": "hairBlow",
@@ -153,8 +153,8 @@
 		},
 		{
 			"offsets": [
-				2010,
-				81
+				0,
+				-9
 			],
 			"loop": false,
 			"anim": "hairFall",
@@ -177,8 +177,8 @@
 		},
 		{
 			"offsets": [
-				2018,
-				93
+				-2,
+				-17
 			],
 			"loop": true,
 			"anim": "scared",
@@ -188,17 +188,17 @@
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/GF_assets",
+	"image": "characters/no-gf",
 	"position": [
 		0,
-		0
+		290
 	],
-	"healthicon": "gf",
+	"healthicon": "icon-nogf",
 	"flip_x": false,
 	"healthbar_colors": [
-		165,
 		0,
-		77
+		0,
+		0
 	],
 	"camera_position": [
 		0,
