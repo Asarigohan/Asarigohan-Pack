@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "bf idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				-9
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "bf left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-34,
+				-26
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BF DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				19
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BF UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-46,
+				-16
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BF RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				34,
+				-21
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "bf miss izquierda",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-25,
+				-30
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "bf miss abajo",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				25
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "bf miss arriba",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-38,
+				-20
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "bf miss derecha",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/pixelbf",
+	"position": [
+		-590,
+		280
+	],
+	"healthicon": "bf-pixel",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-360,
+		-40
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
